@@ -1,11 +1,12 @@
-#library(reticulate)
-#library(rredlist)
-#source_python("https://raw.githubusercontent.com/tobiashofmann88/iucn_extinction_simulator/master/iucn_sim/iucn_sim.py")
+#library(devtools)
+#install_github("tobiashofmann88/iucnsim")
 library(iucnsim)
+library(reticulate)
+library(rredlist)
+source_python("https://raw.githubusercontent.com/tobiashofmann88/iucn_extinction_simulator/master/iucn_sim/iucn_sim.py")
 
 # load the tutorial data, a list of species form the order Carnivora.
 data('carnivora') # will be saved as species_list
-py_iucnsim()
 
 reference_group = "Mammalia"
 reference_rank = "class"
@@ -25,6 +26,10 @@ extant_taxa_current_status = get_most_recent_status_target_species(species_list=
                                                                    iucn_history_file=iucn_history_file,
                                                                    iucn_key=iucn_key,
                                                                    outdir=outdir)
+
+#invalid_status_taxa = get_invalid_statuses(extant_taxa_current_status)
+
+
 # get info about possibly extinct taxa
 possibly_extinct_taxa = get_possibly_extinct_iucn_info(iucn_history_file,
                                                        outdir=outdir)
