@@ -8,7 +8,7 @@ Use `iucnsim` to simulate the future [IUCN conservation status](https://www.iucn
 
 The trends (status transition rates) that `iucnsim` will use to simulate the future development of your target species will be determined based on observed status transitions in the history of IUCN status assessments for a representative taxonomic group (**reference group**). This can be any taxonomic group of your chosing, but it usually makes sense that this group i) contains (most of) your target species present in the **species list** and ii) is suficiently large and well assessed to be able to find several status transition events.
 
-The following tutorial will guide you through the whole workflow. For more information see our published manuscript at [https://doi.org/10.1111/ecog.05110](https://doi.org/10.1111/ecog.05110) (Andermann et al., 2021). `iucnsim` is [also available as a bash command line program](https://github.com/tobiashofmann88/iucn_extinction_simulator) that can be downloaded via conda.
+The following tutorial will guide you through the whole workflow. For more information see our published manuscript at [https://doi.org/10.1111/ecog.05110](https://doi.org/10.1111/ecog.05110) (Andermann et al., 2021). `iucnsim` is also available as a [bash command line program](https://github.com/tobiashofmann88/iucn_extinction_simulator) that can be downloaded via conda.
 
 ## Installation
 
@@ -52,18 +52,117 @@ To use the full functionality of `iucnsim` you will have to apply for an IUCN AP
 
 ## Tutorial
 
-1. Load all necessary libraries:
+### Load all necessary libraries
 
-    ```R
-    library(iucnsim)
-    library(reticulate)
-    library(rredlist)
-    reticulate::source_python("https://raw.githubusercontent.com/tobiashofmann88/iucn_extinction_simulator/master/iucn_sim/iucn_sim.py")
-    ```
+```R
+library(iucnsim)
+library(reticulate)
+library(rredlist)
+reticulate::source_python("https://raw.githubusercontent.com/tobiashofmann88/iucn_extinction_simulator/master/iucn_sim/iucn_sim.py")
+```
 
-2. Load the tutorial data, a list of species for the order Carnivora. The data will be stored as a list-object called `species_list`:
+### Load data and define settings
 
-    ```R
-    data('carnivora') # will be saved as species_list
-    ```
+For the tutorial we will be using a list of species for the order Carnivora. The data can be loaded with `data('carnivora')` and will be stored as a list-object called `species_list`:
 
+```R
+# load tutorial data, will be saved as species_list
+data('carnivora')
+# set reference group and define iucn key
+reference_group = "Mammalia"
+reference_rank = "class" # the taxonomic rank of your reference group, e.g. genus, family, order, class, etc.
+iucn_key='insert_your_iucn_key_here' #(for this tutorial you can use a made-up dummy key)
+```
+
+### Download the IUCN history of your chosen reference group
+
+As you see we are using the whole class `Mammalia` as our **reference group**. This means that we will model the future of our Carnivora species based on the average trends we observe across all mammals. The trends we are looking for are transitions from one IUCN status to another in the history of IUCN assessments for this group, e.g. a species moving from status VU (vulnerable) to EN (endangered).
+
+```R
+outdir = 'data/iucn_sim/iucn_data' # define where you want the output files to be stored
+# get iucn history of reference group, will be written to file
+iucn_history_file = get_iucn_history(reference_group=reference_group,
+                                        reference_rank=reference_rank,
+                                        iucn_key=iucn_key,
+                                        outdir=outdir)
+```
+
+Choosing `Mammalia` as a reference group for our Carnivora species may or may not be a good decision, since one could argue that Carnivora species are exposed to higher or different threats than the average mammal. On the other hand it makes sense to choose a group that is large enough and well enough assessed so we can find and extract a decent number of status transition events in the IUCN history of this group, so we can better estimated the status transition rates. This trade-off between large/informative enough and representative enough can be a challenge and needs to be decided on a per-study basis.
+
+To make a more informed decision whether you picked a reference group with sufficient observed status changes, you can use the `evaluate_iucn_history()` function:
+
+```R
+counted_status_transition_events = evaluate_iucn_history(iucn_history_file)
+
+>>> output:
+Current IUCN status distribution in reference group: {'CR': 212, 'DD': 871, 'EN': 505, 'EX': 4, 'LC': 3297, 'NT': 345, 'VU': 536}
+Counted the following transition occurrences in IUCN history of reference group:
+    LC  NT  VU  EN  CR  DD  EX
+LC    0  52  34   7   3  25   0
+NT   92   0  45  15   3  19   0
+VU   46  45   0  76   7  23   0
+EN    7  14  65   0  32   2   0
+CR    2   2   7  38   0   3   3
+DD  112  22  30  37  14   0   1
+EX    0   0   0   0   2   1   0
+```
+
+This table tells us that e.g. there were 52 occurrences of taxa changing from LC (least concern) to NT (near threatened) observed in the IUCN history of all mammals. Similarly 7 taxa were observed changing from EN (endangered) to LC (least concern), and so on. As long as you have several counted status transitions for a range of different transition types, your reference group is sufficiently informative. These counts will be used later on to estimate transition rates for every possible type of status change. Note that any species of the status EW (extinct in the wild) are set to EX (extinct) by `iucnsim`.
+
+### Load current IUCN status for species in `species_list`
+
+Above we downloaded all available IUCN status information for the `reference_group`, but we may have species in our `species_list` that are not part of the `reference_group`. The current status for all species that are found in the reference group will be extracted from the already downloaded `iucn_history_file`, speeding up the procedure. The statuses of any remaining species will need to be downloaded individually, which can take a few minutes.
+
+```R
+# get most recent status for each taxon in target species list
+extant_taxa_current_status = get_most_recent_status_target_species(species_list=species_list,
+                                                                    iucn_history_file=iucn_history_file,
+                                                                    iucn_key=iucn_key,
+                                                                    outdir=outdir)
+```
+
+### Download information about possibly extinct taxa from IUCN
+
+In 2020, IUCN released a list of taxa that are still officially listed under one of the extant IUCN statuses (LC, NT, VU, EN, CR, or DD), but which are likely extinct. `iucnsim` offers the option to easily aaccess this information and set those taxa to EX in the IUCN history of the reference group before estimating transition rates. For now we will just load this information, and we will apply it later on in the tutorial. Alternatively you can also provide your own custom list of taxa that you have reason to believe are extinct. The reaulting `possibly_extinct_taxa` dataframe contains one column with binomial species names and a second column with the year the species is expected to have disappeared.
+
+```R
+possibly_extinct_taxa = get_possibly_extinct_iucn_info(iucn_history_file,
+                                                    outdir=outdir)
+```
+
+### Estimate status transition rates
+
+Now it is time to estimate the rates of status transitions for each transition type based on the counts of these events in the IUCN history of our **reference group**. `iucnsim` runs an MCMC (Markov-Chain Monte Carlo) algorithm to estimate a range of transition rates for each transition type that may have produced the observed count of transitions. You can choose how many rates to sample for each transition type, the default of 100 is usually enough.
+
+One central setting is the `extinction_probs_mode`, which decides the method that is being used to determine the extinction probabilities for each status. When set to `0` the function will calculate extinction probabilities based on the IUCN criterion E definitions for endangered statuses, sensu [Mooers et al. 2008](https://doi.org/10.1371/journal.pone.0003700). When set to `1` the function will instead estimate the extinction probabilities based on empirically observed transitions in the IUCN history of the reference group from extant IUCN statuses to EX (equivalent to how transition rates between extant statuses are being estimated, sensu [Monroe et al., 2019](https://doi.org/10.1098/rsbl.2019.0633)). These two options usually result in significantly different future predictions, and it is therefore important to fully understand the underlying assumptions (read more in the programs [published manuscript](https://doi.org/10.1111/ecog.05110)).
+
+The `extinction_probs_mode=0` scenario is based on hypothetical extinction probabilities, which may not capture the true extinction probabilities and are technically not meant to be applied in this manner by IUCN. These will be the same for all taxa and are not affected by the identity of the species in the **reference group** or **species list**. However, to make this approach less static and more tailored towards the target species, `iucn_sim` allows for including information about generation lengths of the target species. These data can be appended as additional columnd to the `extant_taxa_current_status` dataframe and will be considered when calculating extinction probabilities for each species.
+
+The `extinction_probs_mode=1` scenario is likely to underestimate the true extinciton probabilities, due to the time lag between a species goning extinct and this being registered in the IUCN system. Therefore it is recommendable for this scenario to include the information about `possibly_extinct_taxa`, as this can lead to more observed transitions from extant statuses towards EX.
+
+```R
+outdir = 'data/iucn_sim/transition_rates'
+transition_rates_out = estimate_transition_rates(extant_taxa_current_status,
+                                                  iucn_history_file,
+                                                  outdir,
+                                                  extinction_probs_mode=0,
+                                                  possibly_extinct_list=possibly_extinct_taxa,
+                                                  rate_samples=100)
+```
+
+### Simulate future
+
+Now where we have compiled the current IUCN information for our `species_list` and the status transition rates and extinction probabilities, se are ready to start the future simulations. Let us simulate for the next 50 years.
+
+```R
+outdir = 'data/iucn_sim/future_simulations'
+sim_years = 50
+future_sim_output = run_future_sim(transition_rates_out,
+                                  outdir,
+                                  n_years=sim_years,
+                                  n_sim=100)
+# extract the different output items
+extinction_times = future_sim_output[[1]]
+future_div_min_max = future_sim_output[[2]]
+status_through_time_trajectories = future_sim_output[[3]]
+```

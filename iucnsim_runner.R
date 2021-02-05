@@ -4,6 +4,7 @@ library(iucnsim)
 library(reticulate)
 library(rredlist)
 reticulate::source_python("https://raw.githubusercontent.com/tobiashofmann88/iucn_extinction_simulator/master/iucn_sim/iucn_sim.py")
+#reticulate::source_python("../iucn_extinction_simulator/iucn_sim/iucn_sim.py")
 
 # load the tutorial data, a list of species form the order Carnivora.
 data('carnivora') # will be saved as species_list
@@ -20,6 +21,8 @@ iucn_history_file = get_iucn_history(reference_group=reference_group,
                                      reference_rank=reference_rank,
                                      iucn_key=iucn_key,
                                      outdir=outdir)
+
+counted_status_transition_events = evaluate_iucn_history(iucn_history_file)
 
 # get most recent status for each taxon in target species list
 extant_taxa_current_status = get_most_recent_status_target_species(species_list=species_list,
@@ -46,7 +49,7 @@ transition_rates_out = estimate_transition_rates(extant_taxa_current_status,
 
 #______________________SIMULATE FUTURE EXTINCTIONS___________________________
 outdir = 'data/iucn_sim/future_simulations'
-sim_years = 80
+sim_years = 50
 future_sim_output = run_future_sim(transition_rates_out,
                                   outdir,
                                   n_years=sim_years,
