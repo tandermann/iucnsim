@@ -3,7 +3,7 @@
 library(iucnsim)
 library(reticulate)
 library(rredlist)
-source_python("https://raw.githubusercontent.com/tobiashofmann88/iucn_extinction_simulator/master/iucn_sim/iucn_sim.py")
+reticulate::source_python("https://raw.githubusercontent.com/tobiashofmann88/iucn_extinction_simulator/master/iucn_sim/iucn_sim.py")
 
 # load the tutorial data, a list of species form the order Carnivora.
 data('carnivora') # will be saved as species_list
