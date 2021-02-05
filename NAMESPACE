@@ -2,7 +2,6 @@
 
 export()
 export(estimate_transition_rates)
-export(py_iucnsim)
 export(run_future_sim)
 import(reticulate)
 import(rredlist)
