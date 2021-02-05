@@ -169,4 +169,4 @@ status_through_time_trajectories = future_sim_output[[3]]
 
 There are different ways of displaying the simulation results. The main output items provide a dataframe of simulated extinction times for all target taxa (`extinction_times`), the future diversity trajectory of the target group, including the 95% uncertainty interval (`future_div_min_max`), and the mean status count estimates through time (`status_through_time_trajectories`). The function also produces a set of plots and output files in the output folder, among them a pie-chart of the current and future status distribution of our Carnivora species:
 
-<img src="https://github.com/tobiashofmann88/iucn_extinction_simulator/blob/master/img/workflow.png" width="900">
+<img src="https://github.com/tobiashofmann88/iucnsim/blob/master/img/status_pie_chart.png" width="900">
