@@ -1,9 +1,11 @@
-library(reticulate)
-library(rredlist)
-source_python("https://raw.githubusercontent.com/tobiashofmann88/iucn_extinction_simulator/master/iucn_sim/iucn_sim.py")
+#library(reticulate)
+#library(rredlist)
+#source_python("https://raw.githubusercontent.com/tobiashofmann88/iucn_extinction_simulator/master/iucn_sim/iucn_sim.py")
+library(iucnsim)
 
 # load the tutorial data, a list of species form the order Carnivora.
 data('carnivora') # will be saved as species_list
+py_iucnsim()
 
 reference_group = "Mammalia"
 reference_rank = "class"
