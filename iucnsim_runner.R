@@ -9,19 +9,20 @@ reticulate::source_python("https://raw.githubusercontent.com/tobiashofmann88/iuc
 # load the tutorial data, a list of species form the order Carnivora.
 data('carnivora') # will be saved as species_list
 
+
 reference_group = "Mammalia"
 reference_rank = "class"
 iucn_key='insert_your_iucn_key_here' # this tutorial uses precompiled IUCN data, but you will need your own iucn key when running different datasets
 
 
 #______________________GET IUCN DATA_________________________________
-outdir = 'data/iucn_sim/iucn_data'
+outdir = 'data/iucn_sim/iucn_data2'
 # get iucn history of reference group
 iucn_history_file = get_iucn_history(reference_group=reference_group,
                                      reference_rank=reference_rank,
                                      iucn_key=iucn_key,
                                      outdir=outdir)
-
+# get idea of reference group stats
 counted_status_transition_events = evaluate_iucn_history(iucn_history_file)
 
 # get most recent status for each taxon in target species list
@@ -49,11 +50,11 @@ transition_rates_out = estimate_transition_rates(extant_taxa_current_status,
 
 #______________________SIMULATE FUTURE EXTINCTIONS___________________________
 outdir = 'data/iucn_sim/future_simulations'
-sim_years = 50
+sim_years = 100
 future_sim_output = run_future_sim(transition_rates_out,
                                   outdir,
                                   n_years=sim_years,
-                                  n_sim=100)
+                                  n_sim=10000)
 # extract the different output items
 extinction_times = future_sim_output[[1]]
 future_div_min_max = future_sim_output[[2]]

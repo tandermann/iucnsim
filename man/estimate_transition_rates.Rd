@@ -8,7 +8,7 @@ estimate_transition_rates(
   extant_taxa_current_status,
   iucn_history_file,
   outdir,
-  possibly_extinct_list,
+  possibly_extinct_list = list(),
   extinction_probs_mode = 0,
   species_specific_regression = FALSE,
   rate_samples = 100,
