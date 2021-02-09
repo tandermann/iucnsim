@@ -170,3 +170,19 @@ status_through_time_trajectories = future_sim_output[[3]]
 There are different ways of displaying the simulation results. The main output items provide a dataframe of simulated extinction times for all target taxa (`extinction_times`), the future diversity trajectory of the target group, including the 95% uncertainty interval (`future_div_min_max`), and the mean status count estimates through time (`status_through_time_trajectories`). The function also produces a set of plots and output files in the output folder, among them a pie-chart of the current and future status distribution of our Carnivora species:
 
 <img src="https://github.com/tobiashofmann88/iucnsim/blob/master/img/status_pie_chart.png" width="900">
+
+### Estimate extinction rates
+
+Finally we can estimate the species-specific extinction rates/risks from the simulation results. For this purpose `iucnsim` runs a separate MCMC for each species, based on the simulated times of extinction. To increase the accuracy of these estimates, particularly for species with low extinction rates, it is **recommendable to run the simulations for at least 10,000 simulation replicates** before estimating the extinction rates. Therefore change `n_sim=100` in the code sample above to `n_sim=10000` and rerun the `run_future_sim()` function. Depending on the number of target species this may take several minutes.
+
+Once you have produced 10,000 simulation replicates you can estimate the species-specific extinction rates using the `estimate_extinction_rates()` function.
+
+```R
+outdir = 'data/iucn_sim/extinction_rates'
+ext_rates = estimate_extinction_rates(extinction_times,
+                                      sim_years,
+                                      outdir,
+                                      load_from_file=FALSE)
+```
+
+This function returns the species-specific extinction rates (`ext_rates`), which inherently contain the possibilities of future status changes based on the trends observed in the reference group, and are based on the current conservation status of each species (as well as species' generation length, if provided by user).
