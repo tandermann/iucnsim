@@ -16,7 +16,7 @@ iucn_key='insert_your_iucn_key_here' # this tutorial uses precompiled IUCN data,
 
 
 #______________________GET IUCN DATA_________________________________
-outdir = 'data/iucn_sim/iucn_data2'
+outdir = 'data/iucn_sim/iucn_data'
 # get iucn history of reference group
 iucn_history_file = get_iucn_history(reference_group=reference_group,
                                      reference_rank=reference_rank,
@@ -50,11 +50,12 @@ transition_rates_out = estimate_transition_rates(extant_taxa_current_status,
 
 #______________________SIMULATE FUTURE EXTINCTIONS___________________________
 outdir = 'data/iucn_sim/future_simulations'
-sim_years = 100
+sim_years = 50
 future_sim_output = run_future_sim(transition_rates_out,
                                   outdir,
                                   n_years=sim_years,
                                   n_sim=10000)
+
 # extract the different output items
 extinction_times = future_sim_output[[1]]
 future_div_min_max = future_sim_output[[2]]
@@ -65,6 +66,5 @@ status_through_time_trajectories = future_sim_output[[3]]
 outdir = 'data/iucn_sim/extinction_rates'
 ext_rates = estimate_extinction_rates(extinction_times,
                                       sim_years,
-                                      outdir,
-                                      load_from_file=FALSE)
+                                      outdir)
 
