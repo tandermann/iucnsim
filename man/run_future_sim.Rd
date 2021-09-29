@@ -19,7 +19,8 @@ run_future_sim(
   plot_histograms = FALSE,
   plot_status_piechart = TRUE,
   seed = NULL,
-  load_from_file = FALSE
+  load_from_file = FALSE,
+  save_future_status_array = FALSE
 )
 }
 \description{
