@@ -67,8 +67,13 @@ ext_rates = estimate_extinction_rates(extinction_times,
                                       outdir)
 
 
+
+
+# SPECIAL USE CASES:_________________________________________________________
+
 # ________GET FUTURE ARRAY OF PREDICTED STATUS PER SPECIES___________________
 outdir = 'data/iucn_sim/future_simulations_future_status'
+sim_years = 50
 # we reduce the number of simulation replicates to 100 to keep the data array at a manageable size
 future_sim_output = run_future_sim(transition_rates_out,
                                    outdir,
@@ -80,4 +85,5 @@ future_status_file = paste0(outdir,'/future_status_array_list.pkl')
 future_status_data = summarize_future_status_array(future_status_file)
 future_status_probs = future_status_data[[1]]
 most_likely_future_status = future_status_data[[2]]
+
 

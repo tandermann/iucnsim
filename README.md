@@ -186,3 +186,33 @@ ext_rates = estimate_extinction_rates(extinction_times,
 ```
 
 This function returns the species-specific extinction rates (`ext_rates`), which inherently contain the possibilities of future status changes based on the trends observed in the reference group, and are based on the current conservation status of each species (as well as species' generation length, if provided by user).
+
+____
+
+## Special use cases
+
+You may be interested in modeling the future status changes of individual species through time. Because `iucnsim` has a stochastic simulation algorithm at its core, there is not one specific status for a given species at each year, but rather a probability distribution (if n_sim > 1). For example instead of saying `species_1` has status `VU` in 30 years, the simulation output would instead tell you the status probabilities of `species_1` in 30 years, e.g. `LC = 0.02, NT = 0.01, VU = 0.78, EN = 0.13, CR = 0.03, EX = 0.03`.
+
+You can extract these status probabilities with an easy modification of the standard `iucnsim` workflow. To do this, rerun the simulations, but this time add the `save_future_status_array = TRUE` to the `run_future_sim()` command:
+
+```R
+outdir = 'data/iucn_sim/future_simulations_future_status'
+sim_years = 50
+# we reduce the number of simulation replicates to 100 to keep the data array at a manageable size
+future_sim_output = run_future_sim(transition_rates_out,
+                                   outdir,
+                                   n_years=sim_years,
+                                   n_sim=100,
+                                   save_future_status_array = TRUE)
+```
+
+When activating the `save_future_status_array = TRUE` setting, the function writes a compressed pickle file with the future status of each species for each year and each simulation replicate. The `summarize_future_status_array()` function lets you read and summarize these data and export them into a more readable format. The output includes the probability of each status per year for each species (`future_status_probs`), where each row shows the probability of a given status per year, summarized across all simulation replicates (row index: `1 = LC, 2 = NT, 3 = VU, 4 = EN, 5 = CR, 6 = EX`). The output also includes a summary of the most likely status for each species per year (`most_likely_future_status`), using the same numeric index for each status. 
+
+```R
+# read the resulting pickle file and calculate the probability of each status per year per species
+future_status_file = paste0(outdir,'/future_status_array_list.pkl')
+future_status_data = summarize_future_status_array(future_status_file)
+future_status_probs = future_status_data[[1]]
+most_likely_future_status = future_status_data[[2]]
+```
+
