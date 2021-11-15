@@ -206,7 +206,7 @@ future_sim_output = run_future_sim(transition_rates_out,
                                    save_future_status_array = TRUE)
 ```
 
-When activating the `save_future_status_array = TRUE` setting, the function writes a compressed pickle file with the future status of each species for each year and each simulation replicate. The `summarize_future_status_array()` function lets you read and summarize these data and export them into a more readable format. The output includes the probability of each status per year for each species (`future_status_probs`), where each row shows the probability of a given status per year, summarized across all simulation replicates (row index: `1 = LC, 2 = NT, 3 = VU, 4 = EN, 5 = CR, 6 = EX`). The output also includes a summary of the most likely status for each species per year (`most_likely_future_status`), using the same numeric index for each status. 
+When activating the `save_future_status_array = TRUE` setting, the function writes a compressed pickle file with the future status of each species for each year and each simulation replicate. The `summarize_future_status_array()` function lets you read and summarize these data and export them into a more readable format. The output includes the probability of each status per year for each species (`future_status_probs`), where each row shows the probability of a given status per year, summarized across all simulation replicates (row index: `1 = LC, 2 = NT, 3 = VU, 4 = EN, 5 = CR, 6 = EX`). The output also includes a summary of the most likely status (`most_likely_future_status`) for each species (rows) and simulated year (columns). 
 
 ```R
 # read the resulting pickle file and calculate the probability of each status per year per species
