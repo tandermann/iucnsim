@@ -1,289 +1,289 @@
-Acinonyx jubatus		12.09						16.1					45.09																																														22.17																					44.87		14.04		7.28														26.35		
-Ailuropoda melanoleuca	34.82																										38.86																		42.54																				3.21				36.37																					20.31										
-Ailurus fulgens				33.74	20.43	34.82	12.73					33.8			20.8				20.82		27.35			11.74													23.78		16.66													20.98	12.29				12.45	22.52	19.78	25.6		1.85						23.93	19.78		44.32	3.69	10.27							16.67		7.27					0.92		17.43			21.78				1.14			15.67	
-Aonyx capensis																																																																																																				
-Aonyx cinereus													19.84									13.55														41.45					31.83	42.67						41.43											35.91													16.29	14.24	23.55						35.91																			22.92	
-Aonyx congicus																																																	18.11										0.49																																			32.69						
-Arctictis binturong					21.62												19.34	46.75				12.73																										35.32	30.69													46.77						34.0																						35.65										
-Arctocephalus australis																			40.48								15.81																		46.09								41.69						34.18							34.87											5.05											21.38												
+Acinonyx jubatus	42.4						40.44						44.68				16.52		17.74																																					38.32																												8.22		29.95												16.87		
+Ailuropoda melanoleuca			4.61				20.98	37.53				49.63											28.51																								18.97												45.24																				48.44												48.74									
+Ailurus fulgens		36.74				48.67		23.41		48.64							6.7							36.22			8.31	15.98				40.73										42.74				26.08	5.06							9.06							47.54		23.52		2.43				29.55		3.54	5.41	11.86					43.75							49.4	26.84			6.9		18.47								1.46	
+Aonyx capensis	41.17																																																19.55								40.45							49.8									18.13																33.72											
+Aonyx cinereus							14.91			46.2			42.3						6.19						46.75																														34.16																											15.06						45.44							19.98					13.52
+Aonyx congicus																								42.65		33.15																																																																										
+Arctictis binturong						38.61										47.86		35.17																				34.75						38.89			36.86																																						36.05										9.21				18.53	
+Arctocephalus australis							49.11		19.62					48.25																17.12			28.17														40.99																41.92						31.62															0.64											48.92					15.94
 Arctocephalus forsteri																																																																																																				
-Arctocephalus galapagoensis					47.84	10.21											14.93			18.77				12.24	7.72				47.43	25.42	47.83	15.56			0.61		4.46			1.61		11.63				27.16													9.39					30.95			3.93		26.51				42.49		22.65						39.73				3.77			49.54			6.03		16.38							
+Arctocephalus galapagoensis							44.64				46.79										45.37	38.57				41.02		13.28	7.04		30.33	10.93					12.92				33.58									6.24			29.95	13.5		41.43	17.92						34.04	1.55			2.67							20.87				2.2	43.2				40.93												47.7	34.08				
 Arctocephalus gazella																																																																																																				
-Arctocephalus philippii																																																																																																				
-Arctocephalus pusillus																																																																																																				
+Arctocephalus philippii																																																																																44.35																				
+Arctocephalus pusillus												40.95																																																																																								
 Arctocephalus townsendi																																																																																																				
-Arctocephalus tropicalis																																																																																																				
-Arctogalidia trivirgata																																																																																																		41.92		
+Arctocephalus tropicalis																																													17.99																							49.58																																
+Arctogalidia trivirgata																																																																																																				
 Arctonyx albogularis																																																																																																				
-Arctonyx collaris																							31.74					38.36										19.43				22.36	28.06										26.78														39.6										33.41									34.79					6.95					14.63				
-Arctonyx hoevenii																																																																																																				
-Atelocynus microtis															17.16														10.24													15.71															38.23														31.2					29.25											34.5													
-Atilax paludinosus																																															41.09																																																					
-Bassaricyon alleni																																																																																																				
-Bassaricyon gabbii																																														35.58																																						25.74																
+Arctonyx collaris									42.81																						26.46															42.48											25.12																		16.16	32.43		44.73											19.99							24.78			44.56	
+Arctonyx hoevenii																												16.75																																																																								
+Atelocynus microtis																																											43.32		19.92			34.6						40.44																					28.23			42.33																						
+Atilax paludinosus																																																																																																				
+Bassaricyon alleni																																																																																						42.22														
+Bassaricyon gabbii																																																																																																				
 Bassaricyon medius																																																																																																				
-Bassaricyon neblina																																																					45.47											45.88																																			30.68	
+Bassaricyon neblina				47.42																																																																																																
 Bassariscus astutus																																																																																																				
-Bassariscus sumichrasti																				25.44																																																				39.58																												
-Bdeogale crassicauda																																																																																																				
-Bdeogale jacksoni								49.24															15.99																	20.37																											42.36																																	
+Bassariscus sumichrasti																																																																																																				
+Bdeogale crassicauda												26.4												38.71																																																																												
+Bdeogale jacksoni									34.76																																																																						45.87											24.01										
 Bdeogale nigripes																																																																																																				
-Bdeogale omnivora	20.92								29.89	6.61																																40.47														27.01						37.37			4.12				39.13																										32.02				20.52	
-Callorhinus ursinus																																																									46.13				20.03																											49.24										29.53		
-Canis adustus																																				47.76																																																																
-Canis aureus																																																																																																				
-Canis latrans																																																																															14.48																					
-Canis lupus																																											46.68																																													6.0												
-Canis mesomelas																																																																									33.61		28.39																									
-Canis rufus	43.76	15.12	5.92	0.22	1.51		37.9			12.31		13.85	28.11	47.68	27.62	37.96	4.76	2.68	34.21		48.83	6.61	42.02	13.36		11.08	44.13	4.76	15.02	45.88	22.81	18.12	5.61	4.43	11.54		17.27		0.08	12.2	20.81	12.9	22.74	1.46	4.97		2.55	13.75		20.66		3.35	8.77	8.07		31.25	9.9			0.53	8.46		1.41		6.65	1.1		7.87		20.61	23.64		17.21	24.53			10.62	49.43		0.84	0.67	11.96	7.13	21.45		12.62		3.23	0.13	18.09	39.99		23.2	0.91	19.69	13.86	21.09	46.72	11.16	20.28
-Canis simensis		19.37	30.44			1.75				13.54				8.08		31.88	39.25	31.07	23.24			37.01		38.03													24.12				13.01															7.25	33.4	41.25													19.51		39.97						35.0				26.11													14.66				7.16
-Caracal aurata						35.88																										41.54																					9.7																				21.47		29.34													45.36	42.05								33.87			
+Bdeogale omnivora		5.61				46.7													42.19																									12.06								20.42			35.22		20.66									44.79		41.96																					2.11											
+Callorhinus ursinus																									11.81										11.85			37.49					43.95										17.16														14.14															24.22	32.59	28.77					3.9				35.38			15.43				
+Canis adustus																																																																																																				
+Canis aureus																																																																																						9.49														
+Canis latrans																																																																																																				
+Canis lupus																																																																																																				
+Canis mesomelas																																																																																																				
+Canis rufus	23.33	2.42	29.44	5.92	7.32	5.92			16.52	13.57		33.47	1.36	5.21			9.35	46.18			9.8		30.79		4.2	8.32		6.92	4.95	8.73	21.2	24.72	20.23		22.13	9.02	7.18		23.66	9.25			28.78			10.08		42.75	29.69	18.78		36.13	49.95	0.9	41.44	1.55		1.88		2.24			33.04	24.65	18.1	23.64	14.12	37.8	25.66		4.59						0.85		15.02	46.17	10.53	10.87	0.73	10.88					27.77		19.27		12.99	25.36	15.32	6.77	1.84	5.96	9.14	
+Canis simensis		26.45			16.82			44.77	14.25				23.77		9.01	23.9						7.31				38.93							34.13								19.29		31.03				28.57								14.68	44.4					18.63	12.12					20.06		1.87	25.38				8.14						13.18		13.72					9.79	15.07			48.99		35.14		42.98				18.64	
+Caracal aurata									49.08		39.43																		11.4						26.59		16.84			20.78							45.25												24.7												29.69					15.8									26.73														25.44	
 Caracal caracal																																																																																																				
-Catopuma badia		24.09				43.14			12.26			43.04			27.39		45.66	38.21	34.27		12.44				25.19							21.86													9.5		36.85						1.03			20.05	5.38		30.79		36.35		7.26								5.37						44.37	22.86				27.18		3.23											18.26				10.69	1.44
-Catopuma temminckii						32.01							38.53																																									42.46																																				22.56										
-Cerdocyon thous																																											40.2							14.81																	42.94																																	
-Chrotogale owstoni				13.91									22.29							46.28	20.27	37.83		19.98						0.18							26.14					41.27			5.7						11.3							4.62			16.1		12.09		42.66		3.14		26.42		40.38	45.56		47.97	37.76				45.64	14.4				20.91	4.9			31.18		30.91	34.43	25.72								
-Chrysocyon brachyurus							46.41			33.02										32.08																																											35.82				41.54						40.13											41.63																
-Civettictis civetta																																																				44.82																																																
-Conepatus chinga						35.19																																																		25.65																																												
+Catopuma badia								27.28							41.65				11.61	3.75				38.86	19.19			11.1	14.92								45.66				11.4						13.11	44.28	31.52					47.77				13.59		13.84		35.82				16.62	12.94								38.84					47.23				48.79		13.2				10.22										
+Catopuma temminckii																																		33.99																																			32.73							9.27																							12.07	
+Cerdocyon thous																																		27.83																																																																		
+Chrotogale owstoni			15.43							26.85	49.15									20.12	49.31			23.35		34.59			42.6													34.95		3.15			23.04					46.04	24.91	49.19			46.52	21.4	49.54						8.95				18.61										19.41				44.34			31.33		9.2		36.74		5.71				7.91			49.56	
+Chrysocyon brachyurus												49.05																																				15.57																																																				
+Civettictis civetta																																																																																																				
+Conepatus chinga																																																																																																				
 Conepatus humboldtii																																																																																																				
 Conepatus leuconotus																																																																																																				
-Conepatus semistriatus																																																															3.45																																					
-Crocuta crocuta																																																																																													29.47					14.01		
-Crossarchus alexandri																																																																																																				
-Crossarchus ansorgei																																																																	16.07																											25.71								
-Crossarchus obscurus																																																																																																				
-Crossarchus platycephalus																																																																																																				
-Cryptoprocta ferox																					37.27																												40.9							40.67													10.89												48.72					43.05		46.83	32.37											
-Cuon alpinus		42.71		23.09	5.73		7.56	4.65		19.23	26.29	1.39						40.15		20.96			27.44						44.82					1.34		15.5		9.35							23.81																	6.92		24.49														33.54				32.83																15.48	36.98	
+Conepatus semistriatus																																																																																																				
+Crocuta crocuta																																																																																					42.47															
+Crossarchus alexandri							36.33																																																																																													
+Crossarchus ansorgei																					45.99																																																																															
+Crossarchus obscurus																		37.24																																																																																		
+Crossarchus platycephalus																																							43.64																																																													
+Cryptoprocta ferox					26.96													37.33		34.97																									35.65					18.59			40.33						15.66																												33.9						27.31							
+Cuon alpinus	24.36	47.96	4.14					13.24	8.73						32.33		44.03	6.71				11.13		40.9		10.95		3.31				9.39	17.18								20.24					27.92	46.78	16.4				6.7						31.61			35.26			14.81	45.16	6.79		14.63		29.52				6.3						19.64	39.9					46.66						40.5					14.88	3.71	26.8	32.6
 Cynictis penicillata																																																																																																				
-Cynogale bennettii	27.32	26.43							14.2		7.78	2.78			17.25						32.0						9.98																								42.86							28.43			39.46				31.54	38.33					13.98	14.88					30.26	37.73														39.92		12.82						
-Cystophora cristata		38.79					13.13																													47.48						35.5												41.82																																								39.31				36.57		
-Diplogale hosei						5.1																																																																			36.64											42.77				31.66										41.48		
-Dologale dybowskii				9.27						7.86				8.31						17.88								12.37												46.03												14.77						41.71							21.07																																			
+Cynogale bennettii						25.11			41.07				23.47			20.17			32.79				48.08		41.01					10.52			7.9						42.56	9.59		1.36		8.08	27.56		4.55	40.3									19.85			12.63				6.46		25.44							9.58				13.12			11.38			3.26								19.84	37.53					44.94		5.17	
+Cystophora cristata														25.95				13.31	43.84								8.61																	16.85																					27.52												39.77				23.96								41.23											2.9
+Diplogale hosei																								27.5						22.28					45.18																		37.76										46.99																		30.2											18.16	47.19							
+Dologale dybowskii		8.87																								17.45				0.68															33.36			26.5				22.85	20.15												3.9			48.25						41.64		5.66	0.05											11.92		48.15										
 Eira barbara																																																																																																				
-Enhydra lutris					16.95	36.25	10.08	30.38				14.61	16.67		31.73				33.91								46.83			42.12	19.48				7.39											34.86	1.04								10.98		49.86				37.09	46.63		42.74				38.28								16.93		13.42		38.78			36.56	16.33				8.66				3.29				45.88				45.64
-Erignathus barbatus																																																																																							35.44													
-Eumetopias jubatus																				36.16																																																									29.13																							
-Eupleres goudotii			47.31								23.89																46.24					3.76										30.3			46.49																							36.17			37.13								40.41							26.7				36.82										
-Eupleres major							25.23			9.28						15.2					22.97		25.31					8.8			46.91		46.2					38.39		23.58	14.96				17.46			26.21		40.78							2.15					1.02		41.78						32.97				32.01		13.23	21.17	19.57	46.37					7.04					4.63	38.26					8.16					
-Felis bieti		15.17										6.87																																						25.18												42.96													34.37				39.24	2.22											37.55									
-Felis chaus																																																														48.13																																						
-Felis margarita																																																																																																				
-Felis nigripes																																										30.15																		12.62																				43.32																				
+Enhydra lutris			2.88	7.5						35.6							47.86					14.26													9.9				16.63							37.99					10.6										9.82					3.95						5.25		20.9										29.78				13.4	26.1				14.14	16.24	0.73	15.7	17.83			
+Erignathus barbatus																																																																																																				
+Eumetopias jubatus				9.24																																																																																														19.44		
+Eupleres goudotii								25.53	19.07							36.97									44.53									33.1																				35.35																							45.23		47.78										15.47		17.14									
+Eupleres major	29.46	49.22				10.5			17.19			7.5		33.17													2.47														42.84								34.8			0.69		27.52	32.72			20.71						39.69	31.55		29.31				47.93		8.97				29.95		42.8			15.29					16.5	13.6			5.29				10.25	23.02				
+Felis bieti																																								34.96	32.34																			25.62				49.09		34.73					39.17												9.8								24.23				45.59			49.12		
+Felis chaus																																																																																																				
+Felis margarita																																																																												46.77																								
+Felis nigripes																									4.51																											34.49					20.8	27.84					19.1				22.13											29.47						21.24								46.44							47.26	
 Felis silvestris																																																																																																				
-Fossa fossana									26.11								35.75				21.48	8.77	10.47				24.75																					12.74						47.65																36.48						30.53		44.75								3.49			25.85		15.44									
-Galictis cuja																																																																							3.97																													
-Galictis vittata																																																																																																			17.0	
+Fossa fossana																								21.54		24.9																							46.16			29.68															33.64				29.13		29.62											14.92												40.29				
+Galictis cuja																																																																																																				
+Galictis vittata																																																																																					47.92															
 Galidia elegans																																																																																																				
-Galidictis fasciata		6.97			42.74													26.0																			30.41													41.76		14.36														24.28			41.23								19.07																						11.68	
-Galidictis grandidieri	18.9			22.17	16.31	35.73					12.31							11.55					7.91												47.05				37.95			9.63								16.95								12.6		30.05			45.28		23.07	13.39	49.44											15.89			3.3										4.09				4.74	12.76			13.48	
-Genetta abyssinica					19.21								30.05	39.13							24.41			29.95										28.69	2.68			12.29																										14.12							11.33	26.03					49.59																							
+Galidictis fasciata														48.47			49.09					22.23													1.77											38.68										16.15													27.39																														33.92	
+Galidictis grandidieri					1.77	36.48		45.47	46.03	38.17						35.03			43.21				5.26			10.61		10.77	32.52				0.18			15.84	15.74								3.39							8.1					17.18			16.48				27.89	30.57		22.34				32.29				49.26		16.61	20.56					13.31			3.49			44.04			27.94			32.28					
+Genetta abyssinica			2.7						37.23				0.4					32.27					23.16										8.54				0.93			25.89											42.32		6.65																					1.39						28.71						35.07														
 Genetta angolensis																																																																																																				
-Genetta bourloni														34.78										26.01														27.21				27.26									40.64																		27.78					4.98	25.84			48.62														45.95								43.09
-Genetta cristata	27.69															36.55			17.18	47.53	43.23												3.08				26.03						22.86								38.47								23.61												1.32		20.11								33.68				28.05														3.17	
+Genetta bourloni		40.66	42.64																							43.02					17.95																																							1.02					32.18	35.68									47.32										36.51				2.16	
+Genetta cristata						34.68								24.04	3.19															28.46				3.69		11.88																		11.75					44.69							41.96	0.91					38.15		41.77																		18.61			44.09					
 Genetta genetta																																																																																																				
-Genetta johnstoni																																																														28.88																																						
+Genetta johnstoni																																																																																																				
 Genetta maculata																																																																																																				
-Genetta pardina																																																																																																				
-Genetta piscivora																							16.24																			31.68																									46.81																									43.5								
-Genetta poensis																	7.28																															14.7																		28.61										2.22																			28.4				35.0	
-Genetta servalina																												27.58	42.53																																																																							
+Genetta pardina																																												49.33																																																								
+Genetta piscivora														31.92																																																																																						
+Genetta poensis																		3.71											10.67									1.26					2.6						5.9					16.33								49.34			35.67			15.96						13.78										3.14	34.11										31.83		13.84			
+Genetta servalina																																																									37.53																																											
 Genetta thierryi																																																																																																				
-Genetta tigrina																																					38.56																																																															
-Genetta victoriae							34.27																																																																																					32.88								
-Gulo gulo																																																																																																				
-Halichoerus grypus																																																																																																				
-Helarctos malayanus		43.95				12.39									10.97				24.15				50.0																25.52										43.28																																															48.97			25.29	
+Genetta tigrina																																								17.48													41.05																						27.59																									
+Genetta victoriae																																																																																																				
+Gulo gulo														18.82																																																																																						
+Halichoerus grypus																																																								44.52																																												
+Helarctos malayanus										44.99		37.33																8.22			15.67													21.95	23.06								28.94																				27.87												41.09			48.71											23.56	
 Helogale hirtula																																																																																																				
-Helogale parvula																																																																																																				
-Hemigalus derbyanus				15.85																																																																																																
-Herpailurus yagouaroundi																																																																					39.07																				33.31											
-Herpestes auropunctatus																																																																																																				
-Herpestes brachyurus																																																																															24.56																					
-Herpestes edwardsii																																						47.38																																																														
+Helogale parvula																																																																				36.23																																
+Hemigalus derbyanus																					22.58																27.19																			47.19																			8.04			49.38																						
+Herpailurus yagouaroundi																																																																																																				
+Herpestes auropunctatus																												33.28																																																																								
+Herpestes brachyurus														28.37												30.89								47.31	12.77																																																																	
+Herpestes edwardsii																																																																																																				
 Herpestes flavescens																																																																																																				
-Herpestes fuscus																																																																																																				
-Herpestes ichneumon													38.98																			46.49																																	11.72																																			
-Herpestes javanicus																																		46.57																																																					19.23													
-Herpestes naso																		48.23																																																																																		
-Herpestes ochraceus														25.72																																																																																						
+Herpestes fuscus																																		49.13																																																																		
+Herpestes ichneumon																																																																																																				
+Herpestes javanicus																																																																																																				
+Herpestes naso																																																																																																				
+Herpestes ochraceus																																																																																																				
 Herpestes pulverulentus																																																																																																				
-Herpestes sanguineus																																42.43																																																																				
-Herpestes semitorquatus																							20.21								31.8																		35.41																						21.14			6.62																										
+Herpestes sanguineus																																																																													30.46																							
+Herpestes semitorquatus												11.92																																																																										29.29														18.49
 Herpestes smithii																																																																																																				
-Herpestes urva																																												41.79																																																								
+Herpestes urva																					38.6																																																																															
 Herpestes vitticollis																																																																																																				
-Histriophoca fasciata																																																																																																				
-Hyaena hyaena																								26.26		27.4																				49.07																																																						
-Hydrictis maculicollis													20.49																45.06									26.03																																			7.99														48.14		33.16											
+Histriophoca fasciata																										20.02																																																																										
+Hyaena hyaena									45.5																									47.59																																																																		
+Hydrictis maculicollis																		49.03																																													26.61		34.38																																			
 Hydrurga leptonyx																																																																																																				
-Ichneumia albicauda																																																																										25.84																										
+Ichneumia albicauda																																																																																																				
 Ictonyx libycus																																																																																																				
-Ictonyx striatus																																																																																																				
-Leopardus colocolo																																																																																																			43.57	
-Leopardus geoffroyi																																																																																																				
-Leopardus guigna														34.43												32.96																																											47.01												30.87	40.26		27.95						42.95				0.48						28.69
-Leopardus guttulus		45.99					43.86										40.17				17.25				30.58									37.03												29.17					44.18					4.92																																									17.24	16.61		
-Leopardus jacobita								15.9				49.59	35.88	49.88									29.72					6.15			3.06		8.07								24.98	34.63									33.25		30.75			5.88		25.63								7.83					37.73										43.39				37.16	47.28	48.78					31.02		49.55	17.26	37.81				
-Leopardus pardalis																																																																										49.29																										
-Leopardus tigrinus																				11.04									48.48										16.43	46.23																													18.69				17.34			34.83														37.73										
-Leopardus wiedii							33.98																																																																								30.43							21.3														
-Leptailurus serval																									28.13																																															32.23																												
+Ictonyx striatus																																																															39.82																																					
+Leopardus colocolo																																		40.34																													12.57																		47.5																			
+Leopardus geoffroyi																																																																														22.13																						
+Leopardus guigna								49.15																24.07				21.99										29.41					33.36														39.61				44.49							16.54																													5.2			
+Leopardus guttulus		5.25				13.63																						17.83																																					25.33								38.47																							49.33			46.31	
+Leopardus jacobita						32.02		36.03		23.33						15.95		4.88		31.35		14.98	15.83	38.95	12.84										0.66	38.57	49.27			9.54		16.56			49.24											44.04				19.88								13.9							41.09		20.14	25.95														49.71				49.25				44.0
+Leopardus pardalis																																																																																																				
+Leopardus tigrinus	18.6																								47.46					22.6																								21.39																			49.54																		32.16		33.58				23.88			
+Leopardus wiedii																																						28.44																																		11.77														22.22				26.4				48.54						
+Leptailurus serval																																																							34.93																																											44.12		
 Leptonychotes weddellii																																																																																																				
-Liberiictis kuhni											5.78																																	3.81																						29.58					43.7														18.24		18.49							10.6	1.64					
-Lobodon carcinophaga																															25.36																																																																					
-Lontra canadensis			32.11																																																																																																	
-Lontra felina	43.46			26.21			27.29														45.63				0.69						34.07	4.72	27.08	23.37					18.39		20.29	24.63	40.01	3.32			5.16		37.43	16.93							34.71						7.18											8.25	44.48								5.23	39.76				26.54		40.37						29.48		14.77		19.2
-Lontra longicaudis																													14.43											37.86																																																												
-Lontra provocax				25.44	10.97			48.61		37.57	13.43	9.46		25.29					6.04		9.39	47.66			28.4		46.4	13.39			5.79			24.56	37.38		32.34	40.45				2.92	8.37		11.96				5.17		16.95								29.76	46.86	6.69	5.78								14.42						48.62															10.69	21.68		22.86			40.63			
-Lutra lutra								42.96																															48.85																									1.51																																				
-Lutra sumatrana	11.54				18.71		30.84			0.26				11.41		7.42	45.55		18.14		10.59									16.32	43.31				10.97				7.95					14.27			18.09					47.04	21.74							39.21			41.35							35.31			40.65		9.38			26.89		2.91		0.48					0.33			13.64			23.31			3.0	22.19			
-Lutrogale perspicillata				34.05									10.89																																30.03						43.95																						45.19					48.12			40.73			20.73	24.4		32.57													
+Liberiictis kuhni										11.77											41.6				48.33										23.04													14.53																					20.41				16.2																						31.87					
+Lobodon carcinophaga																																																																																																				
+Lontra canadensis																																																																	38.71																																			
+Lontra felina	17.72			34.59				32.06		12.56	36.78								0.62		18.57	2.77		16.38					22.74		22.76	34.56		32.47			15.61															15.75			31.97		14.75	47.48							3.49									46.7			44.34						41.65			11.59				11.77										
+Lontra longicaudis						41.04																																	39.35																						16.26										28.22																													
+Lontra provocax			18.08	9.87	22.96	13.5	33.37		37.01									1.52																			31.87	17.04		15.2	15.68		43.72	12.18		46.73		13.23				5.9			21.91	8.43		30.73		24.91				48.8	38.54	42.84										22.94				14.46						27.18			44.41	43.52	18.69	46.43								
+Lutra lutra	39.28				40.29				34.61																44.41																																		19.97			36.76														24.84																			12.17	46.07				
+Lutra sumatrana					19.01						23.02		33.18		18.15			5.39							44.98	30.61			2.43		48.76				37.97		22.78	46.53			41.75				3.17					15.7		23.4							16.17			44.74			7.94		9.23						14.12					24.1	17.82				1.12	2.23		48.26	35.75		17.58									18.71		13.61
+Lutrogale perspicillata				47.3																						49.25		19.23						30.71												33.81																														4.03																28.53								
 Lycalopex culpaeus																																																																																																				
-Lycalopex fulvipes		33.55				29.09						3.06	19.07	34.07	22.92	38.56	35.75	35.81		37.17					47.66		27.76	28.46		26.37										30.09										11.95	33.13		47.58					11.84			42.17				11.27	24.67		14.73			24.78	4.12	0.58													29.61							23.22		12.48	13.27	43.11			
-Lycalopex griseus																																																																																																				
+Lycalopex fulvipes						1.87		34.1		39.93						23.26	43.3		2.66	20.44				23.28	40.32			20.1				22.14				12.31	16.4				12.29			49.85		0.34		40.89			15.66		45.5			48.03				36.84					12.42	3.98	24.12	44.92					41.03		5.29	37.27							8.03			18.77	21.73				11.06	42.03			30.52					
+Lycalopex griseus																																																	35.97																																																			
 Lycalopex gymnocercus																																																																																																				
-Lycalopex sechurae																							47.52																														43.58											46.77																																				
+Lycalopex sechurae			34.56																											7.1																																									12.78																													
 Lycalopex vetulus																																																																																																				
-Lycaon pictus	32.81	36.34	20.88	17.09	8.14	3.74	6.09		0.65	29.83	25.46	14.71		42.75		11.74		13.29	11.78	33.87	11.26	19.87	9.18	10.18		33.56		17.21	4.93			23.81	38.2	15.33	9.13			47.53	15.84	10.51	40.83	16.09		22.43		0.77		7.58	12.16				11.62	5.46	2.58			29.76	14.44	21.24	1.77	26.43	3.91	9.34						7.64	5.32	5.7	7.82	41.5	10.15	40.92	30.09	3.54	21.5		0.84		40.12	1.53				21.97			12.38	8.15	30.94	0.88	10.38	6.4		14.09	4.42	
-Lyncodon patagonicus																																				16.66																																																																
-Lynx canadensis																																																																									15.32																											
+Lycaon pictus	33.9		16.31	28.67	3.4	11.63			11.27		19.18	14.71	0.34	47.65	11.65		2.58	2.5		17.34		0.78	0.49	18.72	24.81	6.63	34.27	7.73	5.85			49.7	2.23	10.88	3.94	0.48	21.07		10.68	1.03	1.06	11.17		26.66	48.62	7.94	19.39	31.11	10.2	19.04	5.06	20.82			32.47			4.84		1.12		42.58	23.57		4.67	1.71	12.21	44.22	6.13	24.75		0.29	1.95	49.9	17.5	48.61	2.87	5.88	0.75			9.64	45.78	1.62	0.26					16.45	23.31	43.3		6.98	0.22	6.3		20.54	43.35	
+Lyncodon patagonicus																																																																																																				
+Lynx canadensis																																																																																																				
 Lynx lynx																																																																																																				
-Lynx pardinus			26.39				15.52			17.63					19.94	47.49					22.68		45.97	14.49	1.22	26.14									41.72		25.7				36.53								3.93						39.73		6.31		40.3	41.96	14.4	32.13				17.81					6.25			35.41					0.1		25.84		19.98		7.23			4.81				35.08							2.71	
+Lynx pardinus	31.04	16.35		14.06	1.67					8.03		14.86	45.16		21.86	47.57								3.24								43.44					8.79			12.49	20.17		44.65							15.75			11.72		23.64			36.57			26.76		11.76			35.23	43.29	30.07													33.29								41.97			7.57	26.26			49.26			29.6	13.68
 Lynx rufus																																																																																																				
-Macrogalidia musschenbroekii			20.88						28.55																	16.91				41.21							30.05			21.65							24.32																30.13		31.44								32.43						4.24									33.03										43.47		
-Martes americana																				26.59																																																																																
+Macrogalidia musschenbroekii					46.36					21.47							46.83										44.03			47.67																												5.19										39.94																																
+Martes americana																																																																																																				
 Martes flavigula																																																																																																				
-Martes foina																																											49.63																																																									
-Martes gwatkinsii	36.61	39.92												21.79	41.43	29.97							6.23	31.35														16.09		49.91																			30.16							43.15										34.13		15.27							36.75												42.34		21.08	
+Martes foina																																																																																																				
+Martes gwatkinsii			38.36					27.35																							46.05	21.94			49.08																							23.55			33.12																																				21.71			
 Martes martes																																																																																																				
 Martes melampus																																																																																																				
-Martes pennanti													31.1																																																																																							
+Martes pennanti																																																																																																				
 Martes zibellina																																																																																																				
 Meles anakuma																																																																																																				
-Meles leucurus											18.37																																																																																									
-Meles meles																																																																																					2.0															
+Meles leucurus																																																															41.6											21.62																		4.97								
+Meles meles																																																																																																				
 Mellivora capensis																																																																																																				
-Melogale cucphuongensis	21.05			1.94		18.23																6.38					17.11	6.72																	27.15																						9.29																																	
-Melogale everetti								29.54		18.42		1.54		38.2				30.44				46.64	3.37						0.34	2.6	20.61					46.96			9.58	36.91						25.72						3.69								18.08	10.0									3.84						40.9	45.78			29.54		23.95	49.42		8.86		49.39			10.54				9.42						
-Melogale moschata																																																																																																				
+Melogale cucphuongensis		17.35		48.85													6.83									26.34	21.74																	9.18							32.3				4.49			48.2																								11.3																	23.95	
+Melogale everetti						6.15						24.82			23.85						8.84		27.81	45.11		41.89			36.18	38.37		0.74	40.46	16.67										48.18		49.1		33.41	33.6	5.44			6.34		46.53							1.15		15.47					27.55						34.71				26.23		11.65						48.29	34.9							13.17	26.88		20.28		16.0
+Melogale moschata							38.12																																																																																													
 Melogale orientalis																																																																																																				
-Melogale personata																			26.25																																																																																	
-Melursus ursinus						47.23										45.6					19.96		48.94								29.39				37.92																					31.83		5.83	13.24						28.25																					47.62	46.55								47.36					
+Melogale personata																																																																																																				
+Melursus ursinus								26.3																	14.1																		37.3																																																									
 Mephitis macroura																																																																																																				
-Mephitis mephitis																																																																																		30.29																		
+Mephitis mephitis																																																																																																				
 Mirounga angustirostris																																																																																																				
 Mirounga leonina																																																																																																				
-Monachus monachus	30.22	46.87			38.06	15.88		44.26				40.05	22.89	26.15	28.94			29.22				48.05								25.83	1.04		12.17	41.75			49.34			26.81	40.96							45.4							7.27													26.12	4.21			42.04			13.37						45.5									16.39		46.2					32.76			30.61
-Mungos gambianus																																																																													48.74																							
-Mungos mungo																																								24.69																																																												
-Mungotictis decemlineata			48.64					4.48	17.6	3.55		19.1									21.52	12.37		27.83			29.55			20.26	6.82			13.57	43.16	41.25	39.27		29.45				26.25	7.21	22.16											2.68							18.03	34.89				36.81		5.39			3.89		16.29								10.06							6.5	44.88									
-Mustela africana															26.53																																																																																					
-Mustela altaica																																																																																													21.07							
+Monachus monachus	5.29												43.17			41.94	27.7			36.66				7.43	30.15				17.68		45.65	30.85						10.76		33.32				0.03										33.71						7.79					25.84	11.82		2.48	3.59								5.11	28.03		16.95		32.7	4.9	18.7														34.86		
+Mungos gambianus																																																																																																				
+Mungos mungo																																																																																																				
+Mungotictis decemlineata						13.8						24.43	45.23		48.87				27.48			26.93			19.18	1.72						10.14			17.85					30.73			46.9										47.1	41.78					9.62					33.55	4.85	39.44				49.15														23.83	14.89					39.52		49.66	41.04							37.15
+Mustela africana																								24.88																																																																											28.53	
+Mustela altaica																															34.16										19.52									14.62		19.07																																													28.47			
 Mustela erminea																																																																																																				
-Mustela eversmanii																																																																																																				
-Mustela felipei																				47.76	15.52						3.86	45.32	11.55		30.23							42.12		8.26																																																36.88				43.59								
-Mustela frenata																																																																																											34.73									
-Mustela itatsi						25.15																																								49.12																																	4.96																	49.06	21.13	14.47		
+Mustela eversmanii																											47.94																																																																									
+Mustela felipei																										43.29								33.5																											4.48					14.47		44.9	16.61				30.52																											
+Mustela frenata																							47.15																																																																													
+Mustela itatsi											46.89																																																						43.56																																			33.31
 Mustela kathiah																																																																																																				
-Mustela lutreola	4.39	15.6	23.89	0.4	1.74		5.05	18.43	14.83		23.29	7.4			9.71	1.59	30.62		43.7	2.55	17.62		25.71	5.62		29.15		13.22		36.44	3.91		21.07		6.76	6.73			6.9	26.15	19.3				48.43	36.57	20.38				5.5	34.0	17.81		40.66	12.32	46.52	43.73	41.0	1.26	28.19	29.65	6.99		30.08	27.42	15.47	42.53		7.75	3.01	25.27	15.36	32.77	4.33	13.77		3.88		24.86	3.09	2.17	36.52	7.16	23.04	14.49	18.54		7.36		1.9	29.59	19.72	6.3	20.26	17.15	34.36	15.21		
-Mustela lutreolina									28.93																																																																																											
-Mustela nigripes		41.58					48.34	27.1											8.47		36.92				34.14	5.2			42.74	7.23								25.44		47.28					5.52										18.02	9.1		14.05	26.56		42.18		21.0	6.37	40.57							39.16								38.46		46.38	46.69		43.53		10.15						2.35			7.65	10.91	10.22	7.37	
-Mustela nivalis																																46.35																																																																				
-Mustela nudipes																																																																																					43.84															
-Mustela putorius																																																																																																				
-Mustela russelliana							25.33																													41.45																					24.21	2.93															1.98			23.9			32.43	48.75												46.01						7.7	48.59	
-Mustela sibirica																								44.98																																																																												
-Mustela strigidorsa																			35.2																																																																																	
+Mustela lutreola	20.08	33.47	28.43			8.37	37.17	2.88	19.92		3.21		23.01	19.3	3.62	6.07	23.11	44.72	18.32	19.35	15.88	0.5	30.08	21.68	20.08	32.25	0.34		7.8		27.14	20.49	10.98	45.3				27.67	3.97	15.05	27.99	39.06	16.57		0.8			13.84	1.75	19.22		29.12	22.21	23.46	49.87		10.96			3.05	20.62	1.78		12.27	0.61		44.12	45.0	8.0			47.55	1.07	17.99	25.41	20.79		25.55		5.66	12.44	6.87	6.15			40.73	19.53	2.84	6.65	12.78	4.99		5.24	30.76	17.51	22.37	6.17	21.37	18.29	0.21
+Mustela lutreolina																																																																																																				
+Mustela nigripes														0.41	29.92	18.58									1.75	23.05	39.71			46.54	41.55	19.63							12.64				43.28				6.95			15.79						7.46												18.21		30.61				13.4				4.49	26.78				19.16		18.88	41.22												28.43		
+Mustela nivalis																																																																																																				
+Mustela nudipes																																										13.95																																																										
+Mustela putorius									33.24																																																				46.68																																							
+Mustela russelliana				7.07					4.43		38.88		26.34												21.62	17.53			12.31																20.01																															45.65							13.17						39.71											
+Mustela sibirica																																																																																			29.19																	
+Mustela strigidorsa																																																																																																				
 Mustela subpalmata																																																																																																				
-Mustela tonkinensis																27.1													2.76															7.53													23.05			8.1					49.93				27.64		11.83			43.93		41.95	45.79																	42.25						
-Mydaus javanensis								43.2																																																																																												
-Mydaus marchei																																																																																																				
-Nandinia binotata																																																																																																				
-Nasua narica																																			39.84																																																										16.06							
+Mustela tonkinensis				30.08			4.84											10.14																										30.38																49.29						19.15							20.78							36.17		44.05							13.91								9.43			
+Mydaus javanensis																																																																																																				
+Mydaus marchei																																																											12.42																																									
+Nandinia binotata																																																																																	29.31																			
+Nasua narica																																																																31.52																																				
 Nasua nasua																																																																																																				
-Nasuella meridensis	47.43												29.6	21.97	20.88		28.44																		31.99	0.34			2.57				13.4			7.02						10.25	38.45					3.03		48.68		4.04		31.81	2.99								4.86			30.76	21.99	9.59		18.26					21.73		49.56						23.8		17.72	31.79	16.98	49.76		
-Nasuella olivacea																																																																																																				
-Neofelis diardi							43.71																										44.3				41.23									33.6									43.07	48.29		47.93																								38.3						9.15		31.28						39.75				
-Neofelis nebulosa																			8.74																			34.99			18.45												10.35																												28.17						17.4		24.33											
-Neomonachus schauinslandi	9.25		23.91	4.94		39.95					16.45					14.65		40.86	30.01				34.23		33.53							33.66					5.68			31.84			48.48	22.36			16.19		49.18					34.99											49.49	8.39		18.89	3.66										49.29		49.67	6.11		40.21	10.62			11.48	18.2		46.09		20.65		23.91		16.56		40.48	
-Neophoca cinerea	42.74		20.46	40.87							13.57	31.4	0.39				3.62	29.23					4.45	6.13		46.76			33.94		7.35	44.74	48.34				44.45				7.75	14.84		21.76										0.81			19.51			2.41		8.85					40.27				12.27			21.37					9.8	26.16				36.93					20.68	13.18			13.08							
-Neovison vison																																																																																																				
-Nyctereutes procyonoides																																																																																																				
-Odobenus rosmarus										23.05							20.65			41.46																		22.2												16.64							43.83											32.86																							3.36					28.93				
+Nasuella meridensis					18.35	48.02			46.84			33.65	30.8		45.31	35.7					31.48			43.29			3.01	31.84		25.3		5.41	2.23					37.82		41.69		43.04					17.63						8.26	5.1			21.79	39.49			19.13				17.35		32.71						25.97		8.56			20.21			17.36		32.24			48.77	22.35			0.43		22.24	6.78	20.83					16.61	42.22
+Nasuella olivacea																	20.82																																39.13																																																			
+Neofelis diardi								39.57											24.86		19.91			33.12	45.37		43.97										29.34										35.72									30.4				19.6				15.74		10.49											4.68																							
+Neofelis nebulosa																	44.35										3.03						21.3					39.08							35.27																48.03																									24.02								43.23						
+Neomonachus schauinslandi											38.24		0.96			10.03	47.63	23.4								41.78	28.92						44.25	45.33								39.49	25.03		39.72		26.48	23.07		33.85					0.44			0.72			5.02					39.73				27.93		4.32	17.72	7.84	49.85	13.64			24.53		0.74				17.92	13.64			46.62		23.21					13.65	35.65			
+Neophoca cinerea			32.75	15.16		44.34				25.86				6.54					27.44						20.82			28.81									49.63					7.26								33.74								6.1	3.4	45.16		24.89									23.21	39.93	29.48			4.62	26.95				21.01	15.34						0.69	18.09			13.4		35.82	16.89	48.47	37.66	39.6	22.58	24.16
+Neovison vison																																																																																													23.83							
+Nyctereutes procyonoides																																	49.27																																																																			
+Odobenus rosmarus																			36.52											49.15						36.41					32.7																				36.2						48.99													29.77	6.04		31.85														37.03			
 Ommatophoca rossii																																																																																																				
 Otaria byronia																																																																																																				
-Otocolobus manul																																47.91																																																																			45.04	
+Otocolobus manul																																																																																																				
 Otocyon megalotis																																																																																																				
 Pagophilus groenlandicus																																																																																																				
-Paguma larvata																																																																																																				
-Panthera leo	16.64						29.52																												26.19				42.09			22.53	19.92	19.26												37.85	24.28																			22.22																39.67	28.53							
-Panthera onca	10.57																					28.75																																											31.09																																			
-Panthera pardus												34.44																				12.54								9.67													17.99	32.67					49.66					48.84														22.63																						
-Panthera tigris									27.3			48.01		27.94		22.08		24.99				34.81			32.32		32.59		4.03	11.35										48.8		2.11	24.91			7.71		47.87	44.96		6.38	23.73					11.85	27.03			13.15			7.24																	5.68				28.46		35.02			15.98					28.22		31.5			
-Panthera uncia										42.2								48.72																			42.53																34.66		48.55							13.34							9.81		10.38								30.63																					
+Paguma larvata																																																								44.73																																												
+Panthera leo							33.82							3.69														44.92																																																		1.78		11.05								26.8	29.02							46.06	12.05			
+Panthera onca																																																																															46.07							39.49											38.07			
+Panthera pardus			21.36					17.99												40.27																					48.68				39.71										1.07				49.44			14.12								3.69					12.35											36.3			33.13		46.6									40.05
+Panthera tigris						21.06											34.78		19.6									35.26		21.84			18.37				14.91	10.29			36.94		46.67	26.49	13.63		1.5										24.82				19.61							41.15									26.92	39.83			40.55			8.13							30.46					30.3				
+Panthera uncia																32.46				18.4																																		36.63							5.83										46.98									42.98		35.21			8.41					24.63					16.55		8.69			
 Paracynictis selousi																																																																																																				
 Paradoxurus hermaphroditus																																																																																																				
 Paradoxurus jerdoni																																																																																																				
-Paradoxurus zeylonensis																																																																																									48.91											
-Parahyaena brunnea																																	30.44																											38.21									11.48											40.55							44.54										36.98			
-Pardofelis marmorata																																																																																										16.4										
-Phoca largha																																																																																										10.34										
-Phoca vitulina			30.86																																																																																																	
-Phocarctos hookeri			34.47			6.22		40.8	6.64			20.27							10.87			22.56	25.07						13.85		11.3			35.28			37.64				12.34		33.34							12.55			42.84	35.73					29.27				15.67			3.52			31.25					34.94			20.69										27.64		40.67	13.18					26.3	7.45				8.58
-Poecilogale albinucha																																																																																																				
-Poiana leightoni	16.33																					24.36											21.2								29.71																37.67	49.4																																				28.89				41.23		
-Poiana richardsonii																																																																																																				
-Potos flavus																																																																																																				
-Prionailurus bengalensis																																																47.21																			44.15																																	
-Prionailurus planiceps		6.85			46.26		32.29	41.89									27.16		16.83				44.98	1.95	1.43	41.42	44.16		26.84									6.88	11.4		23.57		10.68							24.24		5.92		9.67					14.85				24.3	42.93	13.99		4.21													21.17				26.0									7.69					10.82		
-Prionailurus rubiginosus																				17.07																																																																																
-Prionailurus viverrinus							11.93					37.95				15.31																	11.3																											21.28															45.36																									
-Prionodon linsang																																																																				44.77																																
-Prionodon pardicolor																																																																																																		17.39		
+Paradoxurus zeylonensis																																																													48.47																31.71			38.12																				
+Parahyaena brunnea				43.14																															44.31																		39.56																																													37.0		
+Pardofelis marmorata																																							25.07			35.13																																																										
+Phoca largha																																																																				33.87																																
+Phoca vitulina																																																																																																				
+Phocarctos hookeri	46.47							41.58			23.41			26.8					25.89	25.9		14.92					13.7		19.58						21.09	18.1	30.02	19.36	11.78		4.71	30.03	24.85					0.1	42.26		12.65		8.15		18.1						35.16		18.16		31.07		12.59				5.62		39.77			6.08					32.21						12.94						12.26			1.8	36.08			
+Poecilogale albinucha																																																								38.96																																												
+Poiana leightoni												49.88											46.12						0.57				18.29																			50.0			35.25		25.09									37.81			40.88				47.58																	18.44										
+Poiana richardsonii																										38.82																																																																										
+Potos flavus																	38.7																																																																																			
+Prionailurus bengalensis																																																																																																				
+Prionailurus planiceps	3.33	22.68			7.35	1.46	42.32		28.08					6.03			3.93															24.77		15.63		20.1		36.3				8.27			36.85		35.28	49.49				26.68			45.15		28.75		49.24											43.04	30.97				34.75	19.52		39.82			1.27			23.54							27.21			48.11	19.29	29.37	49.99	20.16		14.0
+Prionailurus rubiginosus																																																																										48.29																										
+Prionailurus viverrinus																						18.42									4.99				48.26																													8.25																																		25.9		
+Prionodon linsang																																																																																																28.61				
+Prionodon pardicolor																																																																																																				
 Procyon cancrivorus																																																																																																				
-Procyon lotor																																																																																																				
-Procyon pygmaeus	1.67		7.58	9.71				13.73	3.45	19.41		22.0	11.47	8.52	8.17	1.95	9.6	5.42		28.9	40.13	2.08	7.01		20.16	17.54	0.1	6.67	7.2	37.29	22.17	17.57	10.98	23.8		8.22	41.88	45.06		45.76			8.59	17.28	4.01	10.14	18.81	28.23	1.75	18.78	1.7		5.62	3.07	17.59	32.13	11.18			14.99	39.27		37.72				0.14	16.93	43.84	9.41	0.85	22.4	40.85	38.34	15.44	8.31	13.54		12.17	0.66	3.23	2.42	4.33		12.57	19.95	8.9				19.28	27.08		0.16			8.67		3.45	
-Proteles cristata																																																																																																				
-Pteronura brasiliensis				17.74	7.2	2.03	28.01	22.46		28.56	21.71	44.82																		49.54		43.97		8.66		18.21								42.4				16.19			45.83	14.43								19.77		3.83						19.97			2.04									43.57				9.94			25.94							16.4		7.8	47.47			
-Puma concolor										45.16																																																																																										
-Pusa caspica		13.32	44.55			44.53										5.12								25.7					23.13	15.59		15.78						22.22			5.09	38.48			11.47		2.26			10.92		33.62		1.32		10.28		21.04		37.44	11.91				47.27				29.68	49.95						30.72	49.9				11.15	21.23	49.0	33.25	1.31			37.94				35.59					8.44	19.89		
-Pusa hispida																																																																																																				
+Procyon lotor						41.11																																																																																														
+Procyon pygmaeus		3.52	9.98	2.57	21.59	3.97	31.48	14.93	38.58	5.59	24.66		20.49	30.41	25.06		2.62	11.06	10.09	11.04	31.56		10.28	10.18	35.07		18.64	16.66	5.87		16.7	27.16	10.95	10.72	6.01	45.79	8.12		1.24	25.25	40.88		7.92		14.52				1.62	4.71		11.85	9.17	22.24	15.65	4.93	37.1			40.8	14.55	3.53	41.89	16.62		46.9			17.87			2.83	8.61	19.96	44.82				14.65		21.27	1.63			46.31	27.72		22.86	44.72	28.7	20.67	45.34		20.4	18.15	3.2		8.6	2.95	19.71
+Proteles cristata														47.0																																																																																						
+Pteronura brasiliensis			30.12					44.49		24.82							21.0			47.23					15.78	47.5		18.59					37.18	9.99	36.18	6.6			13.09						16.75				13.19					12.52				22.55		1.88		16.18	41.09	17.69	34.42	42.58		14.44	30.77			43.51		10.48				37.23		13.33	24.18	30.16	8.58	23.18			27.21											36.1	16.08	42.64
+Puma concolor																																																																																																				
+Pusa caspica				2.72	46.24		10.02					4.47	34.63								19.48	26.74		8.97				29.18															14.57	16.12	7.16			47.82	22.67						16.11		22.47											21.37			39.85						25.8						19.9					27.41		9.51	2.1		20.37	18.09		6.28			44.37	
+Pusa hispida																																																																				35.31																													19.89			
 Pusa sibirica																																																																																																				
-Rhynchogale melleri																																																																																																				
-Salanoia concolor																						10.1									9.88					45.86																						33.87																											21.9		38.81													
-Speothos venaticus			33.87				21.54	30.65																																				41.75																																													31.68											
+Rhynchogale melleri																	36.19																																																																																			
+Salanoia concolor														9.58													36.59																		25.89					26.12																							46.52																	7.56									39.38	
+Speothos venaticus							44.91																							43.89																				14.05																																						42.53										27.36		
 Spilogale angustifrons																																																																																																				
-Spilogale gracilis																																																																																																	44.6			
-Spilogale putorius																			4.4					30.91															32.98																												35.19																		25.29				37.07											
-Spilogale pygmaea						49.36						34.5																														22.57																		13.54														21.98		37.54		48.45									47.0													
+Spilogale gracilis								15.96																																																																																												
+Spilogale putorius		21.8											32.33	33.58																							35.27										21.46														40.4											35.02																35.42												
+Spilogale pygmaea																																												26.94																			39.75																				32.7									46.36	37.11							
 Suricata suricatta																																																																																																				
-Taxidea taxus																																																																																																				
-Tremarctos ornatus																																							45.54						14.25														26.25											18.13									47.66																					
+Taxidea taxus																																																																											24.98																									
+Tremarctos ornatus																					2.43									34.13								31.77			33.98			15.62				49.06																								43.89									47.54	31.0									22.72									
 Urocyon cinereoargenteus																																																																																																				
-Urocyon littoralis																			40.58																					36.02																											26.46																			43.56														
-Ursus americanus																																																																																																				
-Ursus arctos																																																																																																				
-Ursus maritimus				16.38												15.27					45.38					23.9											17.31				42.96										42.06			35.42									1.22			14.11																16.37			3.07												37.15		41.92	
-Ursus thibetanus													37.33													40.07								32.98													23.77																				12.45					37.39				27.22												10.1												
-Viverra civettina		30.07		2.3		1.73		22.36		18.54	25.82	34.32			0.15	7.34		0.47	34.23	10.07		0.75	47.55		1.49		36.8	2.88	11.33	10.73	44.12		5.12		7.58		9.66	1.66		17.43	28.87	28.25	22.05	28.62	0.81	22.47	31.04		17.5	8.3	35.11		12.43	21.33	7.36				23.38	8.89				42.26	11.73	3.8	4.93	39.17		40.54	12.05		49.16	9.1	40.55	32.45	46.59		5.7		25.32		11.48	41.95	25.67			26.18		46.37		31.65	7.16	16.31				4.72	49.61	4.17
-Viverra megaspila			31.5																	47.56		19.16			39.81					16.48	14.51		18.05						28.89		35.51		21.93			39.8		5.53	5.56	33.67			5.11			49.02	15.15			35.38		2.69	45.57	25.85	16.14	37.75				22.37					20.57									9.68			31.3							8.07						
-Viverra tangalunga																																																											34.73																																									
+Urocyon littoralis																													36.43				19.46																											39.63								30.65				5.27			7.69																									
+Ursus americanus																																																																									23.9																											
+Ursus arctos																																																																												46.93																49.13								
+Ursus maritimus												8.1				20.26																45.69		12.68																							43.56					35.33					3.33						44.27			26.08		41.12					42.89						29.03											
+Ursus thibetanus																																																				15.61																				14.58								7.09											29.42									
+Viverra civettina	14.45	38.48	26.79	34.93	11.55	6.13	1.38	44.93	32.2	10.21	33.45		0.57	23.12		2.25	1.87	37.02		4.72	2.6	26.96		22.48	14.19	20.65	37.14		0.15	32.87	9.99	5.57	2.36		17.82		23.27	16.31	8.61	5.43	24.28	42.12	10.41		20.21	18.1	7.18	28.39	22.15	21.72	3.06	3.26				8.6			22.57	2.18	14.54	44.5	11.1	1.12	2.47	8.37		46.27		4.95		21.72	13.16	12.52	8.82	36.2	21.72	18.46		3.19	22.43	19.59	8.9		27.32		11.85	41.41		6.46	11.98	18.41	5.44	18.62	49.64	30.25	16.09	10.51	3.72	1.51
+Viverra megaspila				21.9		45.26	45.95		0.19	13.75							4.35			7.25			0.31						9.32	25.26	36.48													9.17									4.46			29.9				22.42			40.49	21.01				9.61				5.79											4.18					44.39							31.17				28.79	
+Viverra tangalunga			37.15																																																																																																	
 Viverra zibetha																																																																																																				
-Viverricula indica																																												16.42				26.48																																17.32																				
-Vormela peregusna			30.7											49.7							26.88							20.07																				40.65												45.09										48.87		13.85													45.05			35.69			33.82					28.29				
-Vulpes bengalensis																			34.08																																																																																	
-Vulpes cana																																																																																																				
-Vulpes chama																																																														30.83																																						
-Vulpes corsac																																																																																																				
-Vulpes ferrilata																								46.93							27.03																																																																					
-Vulpes lagopus								49.32																																																																					38.01																							
+Viverricula indica																																													37.72																																																							
+Vormela peregusna		22.45															44.08																			28.1												43.32																																																				
+Vulpes bengalensis																																																																												27.41																								
+Vulpes cana																																														9.66																																																						
+Vulpes chama																																																																																																				
+Vulpes corsac																																									46.22																																																											
+Vulpes ferrilata																																																																																																				
+Vulpes lagopus																																																																																																				
 Vulpes macrotis																																																																																																				
 Vulpes pallida																																																																																																				
-Vulpes rueppellii																																																																																																				
+Vulpes rueppellii																																41.95																																																																				
 Vulpes velox																																																																																																				
 Vulpes vulpes																																																																																																				
-Vulpes zerda																																																																																49.44																				
+Vulpes zerda																																																																																																				
 Zalophus californianus																																																																																																				
-Zalophus wollebaeki						45.53		36.48		35.34	33.13	16.27			15.7	3.14	23.57				45.71					18.56		22.11						47.57	10.85				41.41		41.12	7.68		9.33					13.72								21.09				15.78	0.16			39.11	29.22					36.99	19.01	21.75							25.25			34.7	19.29	31.91					38.12	32.14	23.01	19.8							
+Zalophus wollebaeki					0.51															1.38																37.73				3.99		13.59		19.45		38.72		37.91				6.21	16.02					48.74				13.77	44.35	8.78			47.44					38.19	13.73				5.23	34.43		23.61					15.27			1.86					39.55		25.57	35.5				

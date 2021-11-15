@@ -17,7 +17,8 @@ run_future_sim = function(simulation_input_data,
                           plot_status_piechart=TRUE,
                           seed=NULL,
                           load_from_file=FALSE,
-                          save_future_status_array=FALSE
+                          save_future_status_array=FALSE,
+                          save_status_through_time=FALSE
                           ){
 
   # source python function
@@ -37,7 +38,8 @@ run_future_sim = function(simulation_input_data,
                               plot_status_piechart=plot_status_piechart,
                               seed=seed,
                               load_from_file=load_from_file,
-                              save_future_status_array=save_future_status_array)
+                              save_future_status_array=save_future_status_array,
+                              save_status_through_time=save_status_through_time)
 
   #py_list_attributes(simulation_output)
 

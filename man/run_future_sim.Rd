@@ -20,7 +20,8 @@ run_future_sim(
   plot_status_piechart = TRUE,
   seed = NULL,
   load_from_file = FALSE,
-  save_future_status_array = FALSE
+  save_future_status_array = FALSE,
+  save_status_through_time = FALSE
 )
 }
 \description{
