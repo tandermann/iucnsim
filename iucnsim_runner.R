@@ -3,8 +3,8 @@
 library(iucnsim)
 library(reticulate)
 library(rredlist)
-#reticulate::source_python("https://raw.githubusercontent.com/tobiashofmann88/iucn_extinction_simulator/master/iucn_sim/iucn_sim.py")
-reticulate::source_python("/Users/tobiasandermann/GitHub/iucn_extinction_simulator/iucn_sim/iucn_sim.py")
+reticulate::source_python("https://raw.githubusercontent.com/tobiashofmann88/iucn_extinction_simulator/master/iucn_sim/iucn_sim.py")
+#reticulate::source_python("/Users/tobiasandermann/GitHub/iucn_extinction_simulator/iucn_sim/iucn_sim.py")
 
 # load the tutorial data, a list of species form the order Carnivora.
 data('carnivora') # will be saved as species_list
@@ -79,8 +79,7 @@ future_sim_output = run_future_sim(transition_rates_out,
                                    outdir,
                                    n_years=sim_years,
                                    n_sim=100,
-                                   save_future_status_array = TRUE,
-                                   save_status_through_time = TRUE)
+                                   save_future_status_array = TRUE)
 # read the resulting pickle file and calculate the probability of each status per year per species
 future_status_file = paste0(outdir,'/future_status_array_list.pkl')
 future_status_data = summarize_future_status_array(future_status_file)
@@ -88,6 +87,6 @@ future_status_probs = future_status_data[[1]]
 most_likely_future_status = future_status_data[[2]]
 
 
-table(most_likely_future_status[,50])
+#table(most_likely_future_status[,1])
 
 
