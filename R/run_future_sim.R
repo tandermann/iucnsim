@@ -22,7 +22,7 @@ run_future_sim = function(simulation_input_data,
                           ){
 
   # source python function
-  reticulate::source_python("https://raw.githubusercontent.com/tobiashofmann88/iucn_extinction_simulator/master/iucn_sim/iucn_sim.py")
+  reticulate::source_python("https://raw.githubusercontent.com/tandermann/iucn_extinction_simulator/master/iucn_sim/iucn_sim.py")
   simulation_output = run_sim(simulation_input_data,
                               outdir,
                               n_years=n_years,

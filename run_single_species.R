@@ -1,7 +1,7 @@
 library(iucnsim)
 library(reticulate)
 library(rredlist)
-reticulate::source_python("https://raw.githubusercontent.com/tobiashofmann88/iucn_extinction_simulator/master/iucn_sim/iucn_sim.py")
+reticulate::source_python("https://raw.githubusercontent.com/tandermann/iucn_extinction_simulator/master/iucn_sim/iucn_sim.py")
 
 # define input species
 species_list = data.frame('Paraclaravis geoffroyi')

@@ -17,7 +17,7 @@ estimate_transition_rates = function(extant_taxa_current_status,
                                      ){
 
   # source python function
-  reticulate::source_python("https://raw.githubusercontent.com/tobiashofmann88/iucn_extinction_simulator/master/iucn_sim/iucn_sim.py")
+  reticulate::source_python("https://raw.githubusercontent.com/tandermann/iucn_extinction_simulator/master/iucn_sim/iucn_sim.py")
   transition_rates_obj = transition_rates(extant_taxa_current_status,
                                           iucn_history_file,
                                           outdir,

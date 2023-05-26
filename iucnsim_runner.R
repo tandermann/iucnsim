@@ -1,9 +1,9 @@
 #library(devtools)
-#install_github("tobiashofmann88/iucnsim")
+#install_github("tandermann/iucnsim")
 library(iucnsim)
 library(reticulate)
 library(rredlist)
-reticulate::source_python("https://raw.githubusercontent.com/tobiashofmann88/iucn_extinction_simulator/master/iucn_sim/iucn_sim.py")
+reticulate::source_python("https://raw.githubusercontent.com/tandermann/iucn_extinction_simulator/master/iucn_sim/iucn_sim.py")
 #reticulate::source_python("/Users/tobiasandermann/GitHub/iucn_extinction_simulator/iucn_sim/iucn_sim.py")
 
 # load the tutorial data, a list of species form the order Carnivora.

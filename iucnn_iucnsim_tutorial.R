@@ -1,7 +1,7 @@
 library(tidyverse)
 library(IUCNN)
 library(reticulate)
-source_python("https://raw.githubusercontent.com/tobiashofmann88/iucn_extinction_simulator/master/iucn_sim/iucn_sim.py")
+source_python("https://raw.githubusercontent.com/tandermann/iucn_extinction_simulator/master/iucn_sim/iucn_sim.py")
 #source_python('../iucn_extinction_simulator/iucn_sim/iucn_sim.py')
 
 #load example data 
